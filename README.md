@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 세상을 긍정적인 방향으로 바꾸고 싶은 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 데이터 엔지니어를 꿈꾸며 성장하는 개발자 이계무입니다.</li></li><li> 세종대학교 지능기전공학부 스마트기기공학전공 2020.03 ~</li><li> 세종대학교 지능기전공학부 인공지능 학술동아리 SMARCLE 2023.03 ~</li><li> LG Aimers 5기 2024.07 ~ 2024.08</li><li> Sejong RCV URP 2025.01 ~ 2025.02</li><li> 우리FISA 5기 AI엔지니어링 2025.07 ~</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! LLM 엔지니어 / 데이터 엔지니어를 꿈꾸며 성장하는 개발자 이계무입니다.</li></li><li> 세종대학교 지능기전공학부 스마트기기공학전공 2020.03 ~</li><li> 세종대학교 지능기전공학부 인공지능 학술동아리 SMARCLE 2023.03 ~</li><li> LG Aimers 5기 2024.07 ~ 2024.08</li><li> Sejong RCV URP 2025.01 ~ 2025.02</li><li> 우리FISA 5기 AI엔지니어링 2025.07 ~</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
